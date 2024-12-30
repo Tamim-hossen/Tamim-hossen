@@ -26,8 +26,6 @@ Skills:  REACT / JS / HTML / CSS / Mysql / Git
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-hossen)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-hossen&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Tamim-hossen)  
-
+ 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tamim-hossen)  
 
