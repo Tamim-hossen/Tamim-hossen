@@ -14,7 +14,7 @@ Version Control: Git
 Full-stack development frameworks and tools
 Advanced React features and state management libraries
 
-Skills:  REACT / JS / HTML / CSS / Mysql / Git
+Skills:  REACT / JS / HTML / CSS / Mysql / Git / Next / MongoDB / Docker 
 
 - 📫 How to reach me: tamimhossen003@gmail.com 
 
